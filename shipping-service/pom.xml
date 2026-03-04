@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.srhdp</groupId>
-    <artifactId>saga-choreography</artifactId>
+    <artifactId>shipping-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>saga-choreography</name>
-    <description>saga-choreography</description>
+    <name>shipping-service</name>
+    <description>shipping-service</description>
     <url/>
     <licenses>
         <license/>
