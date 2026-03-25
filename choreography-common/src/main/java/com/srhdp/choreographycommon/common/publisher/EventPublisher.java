@@ -8,3 +8,5 @@ public interface EventPublisher<T extends DomainEvent> {
     Flux<T> publish();
 
 }
+
+
